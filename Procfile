@@ -1,1 +1,1 @@
-web: python3 suka.py
+bot: python3 suka.py
